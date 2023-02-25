@@ -1,4 +1,5 @@
 # Create a Mad Libs game
+
 print("Welcome to Mad Libs! \nLet's create a story.")
 
 answer = input("Do yo want to start the game now? (yes/no) \n")
